@@ -1,1 +1,1 @@
-float max (float, int);
+float max (float num[], int dim);
